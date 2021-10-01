@@ -6,12 +6,8 @@
 <img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TaishiNishimura&langs_count=3&title_color=ffffff&icon_color=FFCD58&text_color=ffffff&&bg_color=DEG,ba65fd,5aa5f8,00d8ee />
 </a>
 
-  
+</br>
 ### Hi there 👋
-
-**TaishiNishimura/TaishiNishimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
