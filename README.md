@@ -1,6 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaishiNishimura&show_icons=true&theme=Gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaishiNishimura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TaishiNishimura)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=left,#ba65fd,#5aa5f8,#00d8ee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaishiNishimura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
