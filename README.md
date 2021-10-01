@@ -1,9 +1,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src=https://github-readme-stats.vercel.app/api?username=TaishiNishimura&show_icons=true&title_color=ffffff&icon_color=FFCD58&text_color=ffffff&bg_color=DEG,ba65fd,5aa5f8,00d8ee>
+<img align="left" src=https://github-readme-stats.vercel.app/api?username=TaishiNishimura&show_icons=true&title_color=ffffff&icon_color=FFCD58&text_color=ffffff&bg_color=DEG,ba65fd,5aa5f8,00d8ee />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TaishiNishimura&langs_count=3&title_color=ffffff&icon_color=FFCD58&text_color=ffffff&&bg_color=DEG,ba65fd,5aa5f8,00d8ee>
+<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TaishiNishimura&langs_count=3&title_color=ffffff&icon_color=FFCD58&text_color=ffffff&&bg_color=DEG,ba65fd,5aa5f8,00d8ee />
 </a>
 
 
