@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=DEG,#ba65fd,#5aa5f8,#00d8ee)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=DEG,ba65fd,5aa5f8,00d8ee)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaishiNishimura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
